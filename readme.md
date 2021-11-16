@@ -15,4 +15,4 @@ step 3: add ssh key in setting like :
 
 
 #### 2.jdk8 source ####
-  source from : http://hg.openjdk.java.net/jdk8/jdk8/
+  source from : http://hg.openjdk.java.net
